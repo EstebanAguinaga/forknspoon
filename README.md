@@ -442,7 +442,7 @@ li{
 <div>
 		<section class="movies">
 		  <h1 class="title1" id="movies">MOVIES_</h1>
-		  <p>This WebPage should tell of your experience with Hurricane IRMA.</p>
+		  <p>Cyberpunk was first introduced into the film indusrty with the movie "Blade Runner" in the 1908's.</p>
 		  <p>Try to make your own Title to grab the readers into your article</p>
 		  <p>Don't forget to change the title inside the HEAD and take out any code with my name Mrs. Bell inside, make it your own.</p>
 			<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" alt="Lighthouse image" style="float: left"></p>
